@@ -25,9 +25,11 @@ O problema a ser solucionado é a dificuldade expor informações sobre os produ
 
 ## Relação com a Extensão Universitária
 
+ Os projetos de extensão universitária desempenham um papel crucial na conexão entre a academia e a sociedade. Nesse contexto, nosso projeto visa a implementação de um sistema sociotécnico inovador, que irá contribuir para que os produtos vendidos pela empresa "Econotecmg" tenham um impacto nas vendas, assim melhorando a exposição e alcance de seus produtos.
 
-Relacionar a situação-problema da organização com o impacto social esperado com a implantação do sistema sociotécnico.
 
 ## Descrição do Parceiro
 
-Apresente uma descrição resumida sobre a organização onde o projeto será desenvolvido para que possa ser compreendido o cenário sistema sociotécnico.
+A Econotecmg é uma empresa especializada em vendas e montagem de equipamentos de energia solar e aquecedores de piscina. Buscam soluções criativas e eficientes para os clientes, sempre trabalhando com equipamentos certificados e de alta qualidade, a empresa esta no mercado desde xxxx atendendo da melhor maneira seus clientes.
+
+
