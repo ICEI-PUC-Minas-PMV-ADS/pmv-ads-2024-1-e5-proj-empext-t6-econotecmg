@@ -6,7 +6,7 @@ O projeto a ser desenvolvido será um site de vendas online, a qual visa aumenta
 
 O problema a ser solucionado é a dificuldade expor informações sobre os produtos e a dificuldade de atrair novos clientes.
 
-![Problemas ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/8d6cbeef-828f-4be9-a681-2a174d63e11c)
+![Problemas  (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/31d487c7-c74a-4848-a611-840b78a9c13d)
 
 ## Objetivos
 
