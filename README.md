@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# EconotecMG
 
-`CURSO`
+![Design sem nome (4)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/82f81ab2-f9b0-4541-9e0e-1d531b0b763a)
 
-`DISCIPLINA`
+`Análise e Desenvolvimento de Sistemas - PUC MINAS`
 
-`SEMESTRE`
+`Desenvolvimento de um Sistema Sociotécnico Inovador`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`1/2024`
+
+O projeto a ser desenvovido será uma loja online, onde o cliente poderá anunciar seus produtos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Hiago Filippe De Assis Soares Leão
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Christina de Paiva Carvalho
+
 
 ## Instruções de utilização
 
