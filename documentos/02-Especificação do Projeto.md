@@ -17,8 +17,7 @@ O modelo de arquitetura escolhido para esse projeto é o MVC. Seguindo as seguin
 
 ## Project Model Canvas
 
-![Project Canvas Template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/2f8e1737-fd47-4063-9ca9-566da7798285)
-
+![Project Canvas Template (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/5ca33b2a-b337-4508-816d-1feed5b933ea)
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
@@ -27,7 +26,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir ao gestor realizar o cadastro de produtos. | ALTA | 
+|RF-001| O sistema deve permitir ao gestor realizar o cadastro cadastro de produtos vendidos pela loja. | ALTA | 
 |RF-002| O sistema deve permitir ao gestor excluir ou modificar os produtos ja adicionados.   | ALTA |
 |RF-003| O sistema deve permitir ao usuário que adicione produtos ao carrinho.    | MÉDIA |
 |RF-004| Ao cliente finalizar as escolhas dos produtos o sistema deve informar a loja os produtos selecionados pelo cliente.    | MÉDIA |
