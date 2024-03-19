@@ -1,21 +1,23 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+As especificações abordadas nesse projeto estão detalhadas a seguir.
 
 ## Arquitetura e Tecnologias
 
-o	Descreva brevemente a arquitetura definida para o projeto e as tecnologias a serem utilizadas. Sugere-se a criação de um diagrama de componentes da solução.
+O modelo de arquitetura escolhido para esse projeto é o MVC. Seguindo as seguintes tecnologias.
+|Função | Tecnologia utilizada|
+|-----|-----|
+|IDE | Visual Studio|
+|Front-end | React|
+|Back-end| Node.Js |
+|Frameworks | Bootstrap, |
+|Banco de dados | postgresql |
+
+![Subcabeçalho](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/c0c85c9a-e4c0-46f6-8dad-e4fbb659254a)
 
 ## Project Model Canvas
 
-Colocar a imagem do modelo construído apresentando a proposta de solução.
-
-> **Links Úteis**:
-> Disponíveis em material de apoio do projeto
+![Project Canvas Template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/2f8e1737-fd47-4063-9ca9-566da7798285)
 
 ## Requisitos
 
@@ -25,15 +27,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve permitir ao gestor realizar o cadastro de produtos. | ALTA | 
+|RF-002| O sistema deve permitir ao gestor excluir ou modificar os produtos ja adicionados.   | ALTA |
+|RF-003| O sistema deve permitir ao usuário que adicione produtos ao carrinho.    | MÉDIA |
+|RF-004| Ao cliente finalizar as escolhas dos produtos o sistema deve informar a loja os produtos selecionados pelo cliente.    | MÉDIA |
+|RF-005| O sistema deve informar aos usuário o valor dos produtos somados no carrinho.    | MÉDIA |
+|RF-006| O sistema deve calcular o frete da distância para a entrega do produto e informar o cliente.  | BAIXO |
+|RF-007| O sistema deve permitir que o usuário entre em contato com a empresa.    | MÉDIA |
+|RF-008| Deve conter informações de horário de funcionamento, telefone de contato e endereço.    | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA |
+|RNF-003| A aplicação será compatível com os principais navegadores do mercado. |  ALTA |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
