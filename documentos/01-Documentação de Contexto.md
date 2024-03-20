@@ -12,13 +12,13 @@ O problema enfrentado pela empresa é a dificuldade expor e propagar informaçõ
 
 ## Objetivos
 
- O objetivo geral desse projeto é desenvolver um site proprio para uma loja de venda de equipamentos de energia solar e aquecedores de piscina. O site terá como objetivo  facilitar as informações sobre os produtos vendidos pela loja. 
+ O objetivo geral desse projeto é o desenvolvimento um site proprio de venda de equipamentos de energia solar e aquecedores de piscina para a empresa "Econotecmg". O site terá como objetivo facilitar a propagação das informações sobre os produtos vendidos pela loja. 
  
 ### Objetivos específicos
 
 * Facilitar as informações dos produtos.
 * Aumentear o alcance de clientes.
-* Automatização de processos de venda.
+* Automatizar parte dos processos de venda.
 
 ## Justificativa
  
