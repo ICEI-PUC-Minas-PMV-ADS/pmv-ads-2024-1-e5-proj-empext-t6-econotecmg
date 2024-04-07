@@ -26,8 +26,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir ao gestor realizar o cadastro cadastro de produtos vendidos pela loja. | ALTA | 
-|RF-002| O sistema deve permitir ao gestor excluir ou modificar os produtos ja adicionados.   | ALTA |
+|RF-001| O sistema deve permitir ao gestor realizar o cadastro de produtos vendidos pela loja. | ALTA | 
+|RF-002| O sistema deve permitir ao gestor excluir ou modificar os produtos já adicionados.   | ALTA |
 |RF-003| O sistema deve permitir ao usuário que adicione produtos ao carrinho.    | MÉDIA |
 |RF-004| Ao cliente finalizar as escolhas dos produtos o sistema deve informar a loja os produtos selecionados pelo cliente.    | MÉDIA |
 |RF-005| O sistema deve informar aos usuário o valor dos produtos somados no carrinho.    | MÉDIA |
