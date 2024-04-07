@@ -1,8 +1,10 @@
 # Introdução
 
-Em um mundo cada vez mais digital, a presença online é essencial para o sucesso de qualquer empresa. Ter um site de vendas não é apenas uma opção, mas uma estratégia inteligente para impulsionar seus negócios. Os benefícios  que um site pode trazer são enormes, entre eles estão o Alcance Ampliado, disponibilidade 24 horas, Credibilidade e Profissionalismo entre outros.
+Em um mundo cada vez mais digital, a presença online é essencial para o sucesso de qualquer empresa. Ter um site de vendas não é apenas uma opção, mas uma estratégia inteligente para impulsionar seus negócios. 
 
-O projeto a ser desenvolvido será um site de vendas online, o qual visa aumentar o alcance de informações dos produtos e a quantidade de clientes. O sistema irá permitir que proprietário exponha seus produtos para a venda, assim facilitando o acesso a informações dos produtos aos clientes.
+Os benefícios  que um site pode trazer são enormes, entre eles estão o Alcance Ampliado, disponibilidade 24 horas, Credibilidade e Profissionalismo entre outros.
+
+O projeto a ser desenvolvido será um site de vendas online, o qual visa aumentar o alcance de informações dos produtos e a quantidade de clientes. O sistema irá permitir que o proprietário exponha seus produtos para a venda, assim facilitando o acesso a informações dos produtos aos clientes.
 
 ## Problema
 
@@ -12,7 +14,7 @@ O problema enfrentado pela empresa é a dificuldade expor e propagar informaçõ
 
 ## Objetivos
 
- O objetivo geral desse projeto é o desenvolvimento um site proprio de venda de equipamentos de energia solar e aquecedores de piscina para a empresa "Econotecmg". O site terá como objetivo facilitar a propagação das informações sobre os produtos vendidos pela loja. 
+ O objetivo geral desse projeto é o desenvolvimento um site próprio de venda de equipamentos de energia solar e aquecedores de piscina para a empresa "Econotecmg". O site terá como objetivo facilitar a propagação das informações sobre os produtos vendidos pela loja. 
  
 ### Objetivos específicos
 
@@ -22,7 +24,7 @@ O problema enfrentado pela empresa é a dificuldade expor e propagar informaçõ
 
 ## Justificativa
  
- O desenvolvimento do site para a empresa "Econotecmg" justifica-se pela dificuldade em que a empresa está enfrentando em expor informações de seus produtos, com isso a empresa está com uma enorme dificuldade de atrair novos clientes. O site próprio da empresa irá facilita essa exposição de seus produtos, assim aumentando o alcance das informações que possivelmente poderá ter um impacto possitivo na atração de novos clientes. 
+ O desenvolvimento do site para a empresa "Econotecmg" justifica-se pela dificuldade em que a empresa está enfrentando em expor informações de seus produtos, com isso a empresa está com uma enorme dificuldade de atrair novos clientes. O site próprio da empresa irá facilitar essa exposição de seus produtos,aumentando o alcance das informações que possivelmente poderá ter um impacto possitivo na atração de novos clientes. 
 
 
 ## Relação com a Extensão Universitária
@@ -37,6 +39,6 @@ O problema enfrentado pela empresa é a dificuldade expor e propagar informaçõ
 
 ## Descrição do Parceiro
 
-A Econotecmg é uma empresa especializada em vendas e montagem de equipamentos de energia solar e aquecedores de piscina. Buscam soluções criativas e eficientes para os clientes, sempre trabalhando com equipamentos certificados e de alta qualidade, a empresa esta no mercado desde xxxx atendendo da melhor maneira seus clientes.
+A Econotecmg é uma empresa especializada em vendas e montagem de equipamentos de energia solar e aquecedores de piscina, que buscam soluções criativas e eficientes para os clientes trabalhando com equipamentos certificados e de alta qualidade. Estando no mercado desde xxxx, atendende da melhor maneira seus clientes.
 
 
