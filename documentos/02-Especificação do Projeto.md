@@ -17,7 +17,8 @@ O modelo de arquitetura escolhido para esse projeto é o MVC. Seguindo as seguin
 
 ## Project Model Canvas
 
-![Project Canvas Template (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/5ca33b2a-b337-4508-816d-1feed5b933ea)
+![Diagrama de caso de uso (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/8620940e-cb0a-4998-ab3b-a2d3d3afe0ba)
+
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
@@ -56,7 +57,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de caso de uso (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/1b74aa96-1383-4601-a2e0-05b0ef1f6f67)
+![Diagrama de caso de uso (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/9858f415-32c0-466e-ba8a-ed203d944ed7)
 
 ## Modelo ER (Projeto Conceitual)
 
@@ -70,5 +71,6 @@ O Modelo ER representa através de um diagrama como as entidades se relacionam e
 
 O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
 
-![_Fluxograma (5)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/eac62f71-4544-4e28-b3a9-23f584402102)
+![_Fluxograma (6)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/61f0580d-baf7-4bcf-802a-d6b56d418955)
+
 
