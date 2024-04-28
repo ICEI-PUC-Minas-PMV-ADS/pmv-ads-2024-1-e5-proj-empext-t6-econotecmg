@@ -13,9 +13,16 @@ O problema enfrentado pela empresa é a dificuldade expor e propagar informaçõ
 ![Problemas  (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/31d487c7-c74a-4848-a611-840b78a9c13d)
 
 ## Objetivos
-
- O objetivo geral desse projeto é o desenvolvimento um site próprio de venda de equipamentos de energia solar e aquecedores de piscina para a empresa "Econotecmg". O site terá como objetivo facilitar exposição de informações sobre os produtos vendidos pela loja. Assim aumentar a venda de produtos e serviços fornecidos pela loja. 
  
+ O objetivo geral desse projeto é a criação um site de vendas de equipamentos de energia solar e aquecedores de piscina. O site é destinado para a empresa "Econotecmg" e terá como objetivo facilitar exposição de informações sobre os produtos vendidos pela loja. 
+
+### Objetivos específico
+- Aumentar o alcancer de vendas.
+- Facilitar o acesso a informações sobre a loja/produtos para o cliente.
+- Aumentar o alcancer informações aos clientes.
+- Aumentar a venda de produtos e serviços fornecidos pela loja.
+  
+  
 ## Justificativa
  
  O desenvolvimento do site para a empresa "Econotecmg" justifica-se pela dificuldade em que a empresa está enfrentando em expor informações de seus produtos, com isso a empresa está com uma enorme dificuldade de atrair novos clientes. O site próprio da empresa irá facilitar essa exposição de seus produtos,aumentando o alcance das informações que possivelmente poderá ter um impacto possitivo na atração de novos clientes. 
