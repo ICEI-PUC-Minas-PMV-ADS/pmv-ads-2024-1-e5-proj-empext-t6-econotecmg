@@ -17,7 +17,7 @@ O modelo de arquitetura escolhido para esse projeto é o MVC. Seguindo as seguin
 
 ## Project Model Canvas
 
-![Diagrama de caso de uso (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/8620940e-cb0a-4998-ab3b-a2d3d3afe0ba)
+![Diagrama de caso de uso (4)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/e50aa290-ec89-4b86-83f7-ba85a2650caa)
 
 ## Requisitos
 
