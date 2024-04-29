@@ -34,7 +34,7 @@ O problema enfrentado pela empresa é a dificuldade expor e propagar informaçõ
  
  A extensão universitária visa complementar o ensino, aplicando o conhecimento acadêmico para resolver problemas. Assim a extensão universitária contribuir para o desenvolvimento social, cultural e econômico.
 
- 
+ O desenvolvimento desse projeto irá beneficiar ambas as parte. Para o parceiro, irá obter um site para sua loja assim aumentando o alcance das informações. Já para o lado universitário temos o aprendizado na prática, o qual é essencial para fortalecer o aprendizado e dar início a carreira profissional.
 
 
 
