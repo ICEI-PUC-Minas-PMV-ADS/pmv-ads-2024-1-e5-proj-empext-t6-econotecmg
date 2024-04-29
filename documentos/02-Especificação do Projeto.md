@@ -78,7 +78,8 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 O Modelo ER representa através de um diagrama como as entidades se relacionam entre si na aplicação interativa.
 
-![Problemas  (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/2ac3c873-c4a7-4d7f-b4bd-4d1a977d4aa9)
+![Problemas  (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/1cc1a335-d28c-4fd6-9bed-3d5ae0a864f9)
+
 
 
 
