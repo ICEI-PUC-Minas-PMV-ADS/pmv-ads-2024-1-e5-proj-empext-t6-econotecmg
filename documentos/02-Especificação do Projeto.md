@@ -59,7 +59,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/a744156c-1900-439e-8aa4-1fccb71ef261)
 
-## Modelo ER (Projeto Conceitual)
+## Modelo ER (Entidades relacional)
 
 O Modelo ER representa através de um diagrama como as entidades se relacionam entre si na aplicação interativa.
 
