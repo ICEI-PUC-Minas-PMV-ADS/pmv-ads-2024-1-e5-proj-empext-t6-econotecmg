@@ -57,7 +57,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de caso de uso (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/9858f415-32c0-466e-ba8a-ed203d944ed7)
+![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/a744156c-1900-439e-8aa4-1fccb71ef261)
 
 ## Modelo ER (Projeto Conceitual)
 
