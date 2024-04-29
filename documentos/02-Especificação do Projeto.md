@@ -59,6 +59,21 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/a744156c-1900-439e-8aa4-1fccb71ef261)
 
+# Matriz de Rastreabilidade
+
+A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+
+| ID |RF01|RF02|RF03|RF04|RF05|RF06|RF07|RF08|
+|----|----|----|----|----|----|----|----|----|
+|RF01|    | x  |    |    |    |    |    |    | 
+|RF02| x  |    |    |    |    |    |    |    | 
+|RF03| x  |    |    | x  |    |    |    |    |    
+|RF04|    |    |    |    | x  |    |    |    |
+|RF05|    |    |    | x  |    |    |    |    | 
+|RF06|    |    |    |    | x  |    |    |    |  
+|RF07|    |    |    |    |    |    |    | x  |  
+|RF08|    |    |    |    |    |    | x  |    |   
+
 ## Modelo ER (Entidades relacional)
 
 O Modelo ER representa através de um diagrama como as entidades se relacionam entre si na aplicação interativa.
