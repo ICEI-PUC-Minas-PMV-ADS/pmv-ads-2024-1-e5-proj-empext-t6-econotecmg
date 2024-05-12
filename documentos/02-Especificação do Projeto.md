@@ -36,7 +36,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| O sistema deve permitir que o usuário entre em contato com a empresa.    | MÉDIA |
 |RF-008| Deve conter informações de horário de funcionamento, telefone de contato e endereço.    | MÉDIA |
 |RF-009| O sistema deve permitir que o usuario se cadastre-se.    | ALTA  |
-|RF-010| O O sistema deve permitir que o usuario faça login em sua conta.    | ALTA  |
+|RF-010| O sistema deve permitir que o usuario faça login em sua conta.    | ALTA  |
 
 ### Requisitos não Funcionais
 
