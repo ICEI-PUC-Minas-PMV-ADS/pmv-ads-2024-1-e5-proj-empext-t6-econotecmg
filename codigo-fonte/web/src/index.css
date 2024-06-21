@@ -1,0 +1,158 @@
+/*CSS HEADER */
+.navbar {
+  padding: 20px;
+}
+.nav{
+  margin-left: 20px;
+}
+.btnCarrinho{
+  margin-inline-end: 25px;
+  @media only screen and (max-width: 920px) {margin-left: 0px;}
+}
+
+/*CSS CAROUSEL */
+.me-auto{
+  margin-left: 30px;
+}
+.d-block {
+  padding: 10px;
+  width: auto;
+  
+  @media only screen and (min-width: 920px) {height: 650px;}
+}
+
+/*CSS MARCAS */
+.img-marcas {
+  display: inline;
+  height: 141px;
+  width: 150px;
+  margin: 15px;
+  
+  @media only screen and (max-width: 920px) {
+      height: 71px;
+      width: 80px;
+      display: inline;
+      margin: 2px;
+  }
+}
+
+.img-marcas-2 {
+  display: inline;
+  height: 80px;
+  width: 170px;
+  margin: 5px;
+  
+  @media only screen and (max-width: 920px) {
+      height: 60px;
+      width: 95px;
+      display: inline;
+      margin: 2px;
+  }
+}
+.container-img{
+  text-align: center;
+  padding: 10px;
+  
+  @media only screen and (max-width: 920px) {
+      padding: 5px;
+  }
+}
+.container-p{
+  text-align: center;
+  padding: 20px;  
+}
+p {
+  font-size: 18px;
+  @media only screen and (max-width: 920px) {
+      font-size: 14px;
+  }
+  
+}
+/*CSS CARDS*/
+.container-card {
+  justify-content: center;
+  display: flex;
+  margin: 30px;
+  @media only screen and (max-width: 920px) {
+      display: block;
+      padding-left: 30px;
+  }
+  
+}
+.container-card-2 {
+  justify-content: center;
+  display: flex;
+  margin: 30px;
+  @media only screen and (max-width: 920px) {
+      display: block;
+      padding: 30px;
+      display: none!important
+  }
+}
+.cards {
+  margin-left: 30px;
+  @media only screen and (max-width: 920px) {
+      margin-left: 0;
+      margin-bottom: 5px;
+  }
+}
+.ver-mais{
+  display: flex;
+  margin-bottom: 20px;
+  margin-inline-end: 25px;
+  justify-content: end;
+  @media only screen and (max-width: 920px) {
+    
+}
+}
+/*CSS SOBRE*/
+.img-sobre{
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+/*CSS fOOTER*/
+.footer {
+  display: flex; 
+  color: aliceblue; 
+  background-color: rgb(32, 32, 32); 
+  justify-content:center ;
+  justify-content: space-evenly;
+  padding: 40px;
+  @media only screen and (max-width: 920px) {
+      display: block;
+      justify-content:center ;
+  }
+  
+}
+
+
+.text-sobre {
+  @media only screen and (max-width: 920px) {padding: 30px;}
+}
+
+.img-texto {
+  display: flex;
+  align-items: center;
+}
+.logo2-sem{
+  height: 100px;
+  width: 100px;
+
+  @media only screen and (max-width: 920px) {
+  margin-left: 30%;
+  margin-bottom: 20px;
+  }
+}
+
+/*CSS CARDS-PAGINA-PRODUTOS*/
+.card-container{
+  margin: 20PX;
+}
+.titulo-produto{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
