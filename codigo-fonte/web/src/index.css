@@ -9,6 +9,10 @@
   margin-inline-end: 25px;
   @media only screen and (max-width: 920px) {margin-left: 0px;}
 }
+.logo-header {
+  height: 60px;
+  width: 60px;
+}
 
 /*CSS CAROUSEL */
 .me-auto{
@@ -85,7 +89,7 @@ p {
   margin: 30px;
   @media only screen and (max-width: 920px) {
       display: block;
-      padding: 30px;
+      padding: 0px;
       display: none!important
   }
 }
@@ -112,6 +116,16 @@ p {
   margin-right: 20px;
   margin-left: 10px;
   margin-bottom: 20px;
+  @media only screen and (max-width: 920px) {
+    display: block;
+    width: 80px;
+  height: 80px;
+  }
+}
+.img-texto{
+  @media only screen and (max-width: 920px) {
+    display: block;
+  }
 }
 
 /*CSS fOOTER*/

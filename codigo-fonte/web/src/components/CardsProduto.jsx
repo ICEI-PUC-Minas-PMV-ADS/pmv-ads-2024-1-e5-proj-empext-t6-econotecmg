@@ -109,7 +109,7 @@ const CardsProduto = () => {
                     </Card.Body>
                 </Card>
                 </div>
-                <div className='ver-mais'><Button >Mais Produtos</Button></div>
+                <div className='ver-mais'><Button href={'/produtos'}>Mais Produtos</Button></div>
             </div>
             
            
