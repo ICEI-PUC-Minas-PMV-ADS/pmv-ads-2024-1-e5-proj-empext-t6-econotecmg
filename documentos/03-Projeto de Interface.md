@@ -5,7 +5,8 @@ O projeto de interface visa simplificar o processo de registro e acompanhamento 
 
 ## Diagrama de Fluxo
 
-![fluxo tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/09ae7f6c-4d07-4df8-968e-d6622ecd2732)
+![fluxo tela (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t6-econotecmg/assets/103226164/620d0a94-8b94-4210-9ff0-230c39d046a6)
+
 
 ## Wireframes
 
