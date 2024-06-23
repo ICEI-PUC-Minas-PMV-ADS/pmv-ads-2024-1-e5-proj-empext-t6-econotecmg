@@ -4,7 +4,7 @@ Em um mundo cada vez mais digital, a presença online é essencial para o sucess
 
 Os benefícios  que um site pode trazer são enormes, entre eles estão o Alcance Ampliado, disponibilidade 24 horas, Credibilidade e Profissionalismo entre outros.
 
-O projeto a ser desenvolvido será um site de vendas online, o qual visa aumentar o alcance de informações dos produtos e a quantidade de clientes. O sistema irá permitir que o proprietário exponha seus produtos para a venda, assim facilitando o acesso a informações dos produtos aos clientes.
+O projeto a ser desenvolvido será um site portifolio da loja, o qual visa aumentar o alcance de informações dos produtos e a quantidade de clientes. O sistema irá permitir que o proprietário exponha seus produtos, assim facilitando o acesso a informações dos produtos aos clientes.
 
 ## Problema
 
@@ -14,7 +14,7 @@ O problema enfrentado pela empresa é a dificuldade expor e propagar informaçõ
 
 ## Objetivos
  
- O objetivo geral desse projeto é a criação um site de vendas de equipamentos de energia solar e aquecedores de piscina. O site é destinado para a empresa "Econotecmg" e terá como objetivo facilitar exposição de informações sobre os produtos vendidos pela loja. 
+ O objetivo geral desse projeto é a criação um site de equipamentos de energia solar e aquecedores de piscina. O site é destinado para a empresa "Econotecmg" e terá como objetivo facilitar exposição de informações sobre os produtos vendidos pela loja. 
 
 ### Objetivos específico
 - Aumentar o alcancer de vendas.
@@ -40,6 +40,6 @@ O problema enfrentado pela empresa é a dificuldade expor e propagar informaçõ
 
 ## Descrição do Parceiro
 
-A Econotecmg é uma empresa especializada em vendas e montagem de equipamentos de energia solar e aquecedores de piscina, que buscam soluções criativas e eficientes para os clientes trabalhando com equipamentos certificados e de alta qualidade. Estando no mercado desde xxxx, atendende da melhor maneira seus clientes.
+A Econotecmg é uma empresa especializada em vendas e montagem de equipamentos de energia solar e aquecedores de piscina, que buscam soluções criativas e eficientes para os clientes trabalhando com equipamentos certificados e de alta qualidade. Estando no mercado desde 03/06/2020, atendende da melhor maneira seus clientes.
 
 
