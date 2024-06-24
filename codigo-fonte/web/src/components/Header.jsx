@@ -20,7 +20,6 @@ const Header = () => {
             <Nav.Link href="#link">Atendimento</Nav.Link>
             
           </Nav>
-          <Button variant="success" className='btnCarrinho'>Carrinho</Button>{' '}
         </Navbar.Collapse>
 
       </Navbar>

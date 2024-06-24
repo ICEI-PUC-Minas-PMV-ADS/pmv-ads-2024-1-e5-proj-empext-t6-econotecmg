@@ -6,8 +6,9 @@ const Sobre = () => {
     return (
         <>
             <div className='container'>
+
                 <h3 >Sobre</h3>
-                <div className='img-texto'>
+                <div className='img-texto' style={{margin:'30px'}}>
                     <Image className='img-sobre' src={Logo1} roundedCircle />
                     <p className='text-sobre'>
                         Somos uma empresa especializada em equipamentos de energia solar e aquecedores de piscina. Desde a nossa fundação,
@@ -18,13 +19,6 @@ const Sobre = () => {
 
                 </div>
 
-                <div className='img-texto'>
-
-                    <p className='text-sobre'>
-                        Transforme o poder do sol em calor para impulsionar seu negócio! Com energia solar, você não apenas reduzirá os custos operacionais, mas também contribuirá para um futuro sustentável.
-                    </p>
-                    <Image className='img-sobre' src={Logo1} roundedCircle />
-                </div>
 
             </div>
         </>
